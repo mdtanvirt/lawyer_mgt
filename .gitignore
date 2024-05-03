@@ -183,3 +183,6 @@ bundles/
 vendor/pkg/
 pyenv
 Vagrantfile
+proj_lawyer/data
+proj_lawyer/data/db
+proj_lawyer/db
